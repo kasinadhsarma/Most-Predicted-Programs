@@ -1,6 +1,6 @@
 package Alphabets;
 import java.util.Scanner;
-public class TraingleCharacter9 {
+public class TriangleCharacter9 {
     public static void main(String args[]){
 try (Scanner scan = new Scanner(System.in)) {
     System.out.println("Enter the number of rows");
